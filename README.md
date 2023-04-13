@@ -1,12 +1,5 @@
 <!-- social media connecting shield -->
 
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
-
-
 
 ![Github Banner](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/screenshot.png)
 
@@ -21,11 +14,17 @@
 
 <!-- my social media links -->
 
-[instagram-url]: https://www.instagram.com/dynastyelvis/
-[twitter-url]: https://twitter.com/Dev_Rono
-[linkedin-url]: https://www.linkedin.com/in/kipkemoi-elvis-aa3548209
-[github-url]: https://github.com/DynastyElvis
+[![Instagram][instagram-shield]][instagram-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Github][github-shield]][github-url]
 
+
+[facebook-url]: https://www.faceook.com/SamiurRahmanMukul
+[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
+[twitter-url]: https://www.twitter.com/SamiurRahMukul
+[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
+[github-url]: https://www.github.com/SamiurRahmanMukul
 <!-- shield icon links -->
 
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
