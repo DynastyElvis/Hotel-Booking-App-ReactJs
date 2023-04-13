@@ -10,9 +10,6 @@
 
 ![Github Banner](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/screenshot.png)
 
-# ✨ Beach Resort | Hotel Room Booking System
-
-Hello 👋, I'm <strong>Samiur Rahman Mukul</strong>. At this repository i will be build a `Complete 'Beach Resort' | Hotel Room Booking System Software`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect and explore somethings new. Thanks
 
 <!-- contents of projects -->
 
@@ -24,11 +21,10 @@ Hello 👋, I'm <strong>Samiur Rahman Mukul</strong>. At this repository i will 
 
 <!-- my social media links -->
 
-[facebook-url]: https://www.faceook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
+[instagram-url]: https://www.instagram.com/dynastyelvis/
+[twitter-url]: https://twitter.com/Dev_Rono
+[linkedin-url]: https://www.linkedin.com/in/kipkemoi-elvis-aa3548209
+[github-url]: https://github.com/DynastyElvis
 
 <!-- shield icon links -->
 
